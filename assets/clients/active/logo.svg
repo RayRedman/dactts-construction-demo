@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <!-- Blueprint/building icon -->
+  <g transform="translate(8, 10)">
+    <circle cx="35" cy="40" r="34" fill="none" stroke="#1A1F2E" stroke-width="2.5"/>
+    <!-- Building outline -->
+    <rect x="18" y="24" width="34" height="34" fill="none" stroke="#1A1F2E" stroke-width="2"/>
+    <!-- Windows grid -->
+    <rect x="22" y="28" width="6" height="6" fill="#B8860B" rx="0.5"/>
+    <rect x="32" y="28" width="6" height="6" fill="#B8860B" rx="0.5"/>
+    <rect x="22" y="38" width="6" height="6" fill="#B8860B" rx="0.5"/>
+    <rect x="32" y="38" width="6" height="6" fill="#B8860B" rx="0.5"/>
+    <!-- Door -->
+    <rect x="42" y="44" width="6" height="14" fill="#B8860B" rx="1"/>
+    <!-- Roof accent -->
+    <path d="M16 24 L35 14 L54 24" fill="none" stroke="#B8860B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Company Name -->
+  <text x="88" y="28" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="13" fill="#B8860B" letter-spacing="4">DACTTS</text>
+  <text x="88" y="54" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="17" fill="#1A1F2E" letter-spacing="1">CONSTRUCTION</text>
+  <text x="88" y="74" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-size="11" fill="#1A1F2E" letter-spacing="4">BUILDING &#x2022; REMODELING &#x2022; LUXURY</text>
+</svg>
